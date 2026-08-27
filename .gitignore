@@ -1,0 +1,11 @@
+# Editor/tool backups and local state
+_pgbackup/
+_pginfo/
+pinegrow.json
+.claude/
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+*.lnk
